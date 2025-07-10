@@ -1,2 +1,2 @@
-# Lean-Agile-Change
+# Lean-Agile-Change-Management
 https://leanchange.org/
